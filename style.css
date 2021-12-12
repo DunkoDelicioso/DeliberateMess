@@ -12,7 +12,7 @@ body {
 
 .canvas {
   display: flex;
-  height: 1000px;
+  height: 800px;
   align-items: center;
   flex-direction: column;
   justify-content: center;
